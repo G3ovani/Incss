@@ -1,0 +1,16 @@
+div{
+    width: 200px;
+    height: 200px;
+    margin-bottom: 50px;
+    border: 2px solid black;
+}
+.border{
+    border: 1px dotted rgb(155, 244, 21);
+}
+.sombra{
+        box-shadow: 10px 10px 10px #447d44;
+}
+.bola{
+    border-radius: 50%;
+    background-color:aqua;
+}
